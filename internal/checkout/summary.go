@@ -7,7 +7,7 @@ func PrintHeader(title string) {
 }
 
 func PrintDivider() {
-	fmt.Println("--------------------------------------------------")
+	fmt.Println("-------------------------------------------")
 }
 
 func PrintKV(key string, value any) {
